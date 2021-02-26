@@ -1,0 +1,2 @@
+Demo: http://eternicode.github.io/bootstrap-datepicker/
+Documentation: http://bootstrap-datepicker.readthedocs.org/en/latest/

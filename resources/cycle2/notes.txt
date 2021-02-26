@@ -1,0 +1,2 @@
+Website: http://jquery.malsup.com/cycle2/
+Plugin demos: http://jquery.malsup.com/cycle2/download/
